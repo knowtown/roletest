@@ -2,3 +2,5 @@
 ansible-navigator.log
 *-artifact-*
 */roles/*/*
+./mail/collections/ansible_collections/community*
+./mail/collections/ansible_collections/ansible*
