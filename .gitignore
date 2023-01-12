@@ -1,5 +1,6 @@
 .ssh
 ansible-navigator.log
+ansible-navigator.yml
 *-artifact-*
 */roles/*/*
 collections/ansible_collections/community*
