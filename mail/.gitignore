@@ -2,5 +2,5 @@
 ansible-navigator.log
 *-artifact-*
 !roles/requirement.*
-collections/ansible_collections/
+collections/ansible_collections/*
 !collections/requirements.yml
